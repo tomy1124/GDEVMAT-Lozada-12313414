@@ -52,7 +52,7 @@ public class Walker
     }
     else if (this.position.y < Window.bottom)
     {
-      this.position.x = Window.top;
+      this.position.y = Window.top;
     }
   }
   
